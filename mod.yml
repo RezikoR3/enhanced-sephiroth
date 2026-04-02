@@ -1,0 +1,16 @@
+title: Enhanced Sephiroth
+originalAuthor: RezikoR3
+description: He took a few lessons and locked in
+assets:
+  - name: 00battle.bin
+    method: copy
+    source:
+      - name: files/00battle.bin
+  - name: obj/N_HB630.mdlx
+    method: binarc
+    source:
+      - name: n_hb
+        method: copy
+        source:
+          - name: files/bdx/n_hb630.bdx
+        type: Bdx
